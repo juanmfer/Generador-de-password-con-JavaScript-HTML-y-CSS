@@ -7,3 +7,7 @@ Este generador de contraseñas te permite crear contraseñas seguras y memorable
 # Secure password generator with phrases
 
 This password generator allows you to create secure and memorable passwords using three phrases. Simply enter the three phrases, select the length of the password you want (8, 12 or 16 characters) and click "Generate". The generator will create a random password using the three phrases you entered.
+
+<picture>
+  <img alt="Generador de password con frases en javascript" src="https://github.com/juanmfer/Generador-de-password-con-JavaScript-HTML-y-CSS/blob/main/Generador-de-claves.png">
+</picture>
